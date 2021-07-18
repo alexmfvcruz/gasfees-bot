@@ -1,0 +1,1 @@
+1. Change BOT_TOKEN on package.son
