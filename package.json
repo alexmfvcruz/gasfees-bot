@@ -4,7 +4,9 @@
   "description": "MM Token Discord Gas Bot",
   "main": "index.js",
   "scripts": {
-    "run-test": "echo \"Vitalik please reduce Ethereum gas fees.\" "
+    "run-test": "echo \"Vitalik please reduce Ethereum gas fees.\"",
+    "setup": "npm install",
+    "start-bot": "ts-node ./source/index.ts"
   },
   "author": "reklexx",
   "license": "MIT",
