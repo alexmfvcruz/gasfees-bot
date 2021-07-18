@@ -1,0 +1,20 @@
+{
+  "name": "mm_token_gas_bot",
+  "version": "1.0.0",
+  "description": "MM Token Discord Gas Bot",
+  "main": "index.js",
+  "scripts": {
+    "run-test": "echo \"Vitalik please reduce Ethereum gas fees.\" "
+  },
+  "author": "reklexx",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node-fetch": "^2.5.11",
+    "@types/uuid": "^8.3.1",
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1",
+    "ts-node": "^10.1.0",
+    "typescript": "^4.3.5",
+    "uuid": "^8.3.2"
+  }
+}
