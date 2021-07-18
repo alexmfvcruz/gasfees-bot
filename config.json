@@ -1,0 +1,9 @@
+{
+    "NOT_NAME": "MILLION_TOKEN_GASPRICE_BOT",
+    "BOT_TOKEN": "<insert bot token here>",
+    "RESPONSE_THUMB": "https://i.ibb.co/CwF0bH8/icon.png",
+    "RESPONSE_THUMB_ERROR": "https://i.ibb.co/f8r0mhm/icon-1024-1024-error.png",
+    "IMG_EASTER_EGG": {
+        "ELDER_VITALIK": "https://i.ibb.co/gMCyyYX/EWTFS56-X0-AIUJ98.jpg"
+    }
+}
